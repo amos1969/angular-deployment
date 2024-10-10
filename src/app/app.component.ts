@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title: string = 'Angular Deployment Example';
-  days: number = 2;
+  days: number = 3;
 }
